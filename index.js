@@ -2,6 +2,9 @@
 console.log("hello students..");
 let a="welcome"
 console.log(a);
+let b="hi";
+console.log(b);
+
 
 
 
