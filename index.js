@@ -3,7 +3,6 @@ console.log("hello students..");
 let a="welcome";
 console.log(a);
 console.log("welcome");
-console.log(`hello`);
 
 
 
